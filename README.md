@@ -1,6 +1,5 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ## Комолов Евгений Сергеевич
@@ -72,4 +71,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="mySQL" alt="mySQL" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="mySQL" alt="mySQL" width="60" height="60"/>&nbsp;
 
+</div>
+
+
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="100"/>
 </div>
