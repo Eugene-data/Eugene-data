@@ -35,7 +35,7 @@
 
 ### Hi there 👋
 
-Welcome to my page on GitHub! Hello! My name is Komolov Evgeny, and I am a data analyst with experience in finance, leasing, customer verification. I am passionate about data science, analysis, and visualization, and my GitHub account is my go-to place for the research, projects, and tools I develop.
+Welcome to my page on GitHub! My name is Komolov Evgeny, and I am a data analyst with experience in finance, leasing, customer verification. I am passionate about data science, analysis, and visualization, and my GitHub account is my go-to place for the research, projects, and tools I develop.
 
 On this page you will find my projects that I create for various purposes - for personal study of technology, for solving business problems, for participating in competitions and much more. I also post my research and data analysis notes to share my knowledge and experience with anyone interested in the field.
 
