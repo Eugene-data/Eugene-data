@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## Комолов Евгений Сергеевич
+## Комолов Евгений
 
 ### Привет 👋
 Добро пожаловать на мою страницу на GitHub!
@@ -31,7 +31,7 @@
 
 
 
-## Komolov Evgeny Sergeevich
+## Komolov Evgeny
 
 ### Hi there 👋
 
