@@ -6,7 +6,7 @@
 
 ### Привет 👋
 Добро пожаловать на мою страницу на GitHub!
-Меня зовут Комолов Евгений, и я являюсь аналитиком данных с опытом работы в области финансов, лизинга, верификации клиентов. Я страстно увлекаюсь обработкой данных, анализом и визуализацией, и мой GitHub-аккаунт является моей площадкой для размещения исследований, проектов и инструментов, которые я разрабатываю.
+Меня зовут Комолов Евгений, и я являюсь аналитиком данных с опытом работы финансовой области. Я страстно увлекаюсь обработкой данных, анализом и визуализацией, и мой GitHub-аккаунт является моей площадкой для размещения исследований, проектов и инструментов, которые я разрабатываю.
 
 На этой странице вы найдете мои проекты, которые я создаю для разных целей - для личного изучения технологий, для решения бизнес-задач, для участия в конкурсах и многое другое. Я также публикую свои исследования и заметки по анализу данных, чтобы поделиться своими знаниями и опытом со всеми, кто интересуется этой областью.
 
@@ -35,7 +35,7 @@
 
 ### Hi there 👋
 
-Welcome to my page on GitHub! My name is Komolov Evgeny, and I am a data analyst with experience in finance, leasing, customer verification. I am passionate about data science, analysis, and visualization, and my GitHub account is my go-to place for the research, projects, and tools I develop.
+Welcome to my page on GitHub! My name is Komolov Evgeny, and I am a data analyst with experience in the financial field. I am passionate about data science, analysis, and visualization, and my GitHub account is my go-to place for the research, projects, and tools I develop.
 
 On this page you will find my projects that I create for various purposes - for personal study of technology, for solving business problems, for participating in competitions and much more. I also post my research and data analysis notes to share my knowledge and experience with anyone interested in the field.
 
